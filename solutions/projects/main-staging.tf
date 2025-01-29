@@ -48,3 +48,35 @@ output "project_5_name" {
 output "project_5_id" {
     value       = "project_5_id"
 }
+
+output "cc_pipeline_id" {
+    value = "cc_pipeline_id"
+}
+
+output "cd_pipeline_id" {
+    value = "cd_pipeline_id"
+}
+
+output "ci_pipeline_id" {
+    value = "ci_pipeline_id"
+}
+
+output "compliance_cc_toolchain_id" {
+    value = "ci_pipelcompliance_cc_toolchain_idine_id"
+}
+
+output "compliance_cd_toolchain_id" {
+    value = "compliance_cd_toolchain_id"
+}
+
+output "compliance_ci_toolchain_id" {
+    value = "compliance_ci_toolchain_id"
+}
+
+output "pr_pipeline_id" {
+    value = "pr_pipeline_id"
+}
+
+output "secrets_manager_instance_id" {
+    value = "secrets_manager_instance_id"
+}
